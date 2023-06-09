@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+# React espornsive weekly calendar
 
-To use this template click `Use this template`
+The Weekly Scheduler is a user-friendly web application designed to help users manage their weekly schedules with ease.
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://danylo-dobrovolskyi.github.io/responsive-calendar/)
